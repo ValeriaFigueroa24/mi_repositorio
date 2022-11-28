@@ -26,3 +26,5 @@ p{ color: blue;}
         color: rgb(243, 165, 165, 0.247);
        text-align: center;
      }
+
+     .btn { background-color: rgb(243, 165, 165, 0.247);}

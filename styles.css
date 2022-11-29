@@ -41,9 +41,17 @@ transition: 0.5s;}
 margin: auto;
 align-items: center;}
 
-.grid { display: grid;
-grid-row: span 1, 2, 3;
-grid-column: span 20%, 20%, 20%, 20%, 20%, 20%; }
+.grid {     display: grid;
+    margin: 1px;
+    padding: 25px;
+    height: 20%;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    color: coral;
+    border-color: black;
+}
 
 
 

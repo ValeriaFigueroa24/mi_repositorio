@@ -27,7 +27,11 @@ p{ color: blue;}
        text-align: center;
      }
 
-     .btn { background-color: rgb(243, 165, 165, 0.247);}
+     .btn { background-color: rgb(243, 165, 165, 0.247);
+    border-bottom: 1%;
+border-color: black;
+transition: 1s;
+transform-style: preserve-3d;}
 
     h1 , h2 , h5{ text-align: center;
     font-style: oblique;}
